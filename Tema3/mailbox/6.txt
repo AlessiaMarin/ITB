@@ -1,0 +1,8 @@
+From: alexandra.csizmadia@gmail.ro
+To: alessia.marin@gmail.ro
+Subject: Test SMTP prin ngrok
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Salut! Acesta este un mail de test.
