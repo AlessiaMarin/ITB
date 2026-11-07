@@ -1,0 +1,63 @@
+C:\Users\aless>ncat 202.61.227.83 31337
+md5(xxxx + BbOJCYl7sQTpuNewEZ) == d031436d68a72f3787646e1315b4e0ea
+Mine xxxx:
+Xj
+Xj
+md5(xxxx + 2Gp3s6F4CqzRbj0T) == e902d384f9fcc3d9e1892ed4d1343dab
+Mine xxxx:
+MVZS
+MVZS
+keccak(xxxx + jlM0gc5KTJmy3qFU) == 6620bbabad4175c7237b99489b15a2da2ee0a50ca4c648c1afcca1ad07842634
+Mine xxxx:
+7SLv
+7SLv
+keccak(xxxx + NyGojIMwBKrOL1Jvc) == 29efd422af559b56337345d6c5458b94615ba090e7a49839d3433ad61a824ebb
+Mine xxxx:
+0Ei
+0Ei
+keccak(xxxx + bY2D3kmUB5fuVZGqhK) == 339f41e50d15666448c6453196e408119bb691df666f388adde48dde4670182f
+Mine xxxx:
+Fe
+Fe
+sha256(xxxx + kpM5VZgvUNGnYmXTe) == 2ad5f1a083613d8edce98901173e70a0212adce67dc73fe3b4bbafc3608a4147
+Mine xxxx:
+hzO
+hzO
+keccak(xxxx + 0OT7WtoYjzhePvHZJn1) == 6b5f1d7db6de66408fc28cb199efd618174d12d5f5dbc4fdf5c3132bfa82a61d
+Mine xxxx:
+w
+w
+sha256(xxxx + yok8OU3mVEisFlPWrBw) == 7b0ebebd9206952886a6a1f6622abc27c8b0b274f77859b0053b712c2b55b2a6
+Mine xxxx:
+2
+2
+sha256(xxxx + g7AVRhz58aSuWfn9G) == 824a1208200a5cf17241b478f59eeb9b49329cfdd78883936310f752622f2a76
+Mine xxxx:
+ZTN
+ZTN
+md5(xxxx + kbrpiA5UcVPJ9SIQmNE) == 2db8a616becd17d8a147b6f86015abda
+Mine xxxx:
+T
+T
+md5(xxxx + s2TZlqxMJeNmU9B6d0k) == 6b5ff3150fd82d81569c404dd8926766
+Mine xxxx:
+L
+L
+keccak(xxxx + Udk8ZObhmMBEJePG) == 476513bb04e8acc1ed62a6d875137d185a05314363b6f8d3ceac5788f500b793
+Mine xxxx:
+f43p
+f43p
+keccak(xxxx + oMmWcHPKZv6UCpiFgx) == 7a73e4da25c305659633b7fa007c476ede14424900b7732bf5f85f81fddc87a5
+Mine xxxx:
+95
+95
+keccak(xxxx + r2fCYPvG0XsNd4JVep) == 3e539ba87bf9835a142d944ce353d76a0a4f36950dbe277c9cd52999e8c359ca
+Mine xxxx:
+DQ
+DQ
+md5(xxxx + dy8oKX2jQ5hmSnYH6iF) == 8b570869909f6e4a9b4c64ad5b4aaa02
+Mine xxxx:
+T
+T
+Congratulations miner! Here is your proof of solving the baby PoW task:
+itb{baby_pow_b9ada4ac9807860d81e2beaf3a3b7856}

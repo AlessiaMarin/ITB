@@ -1,0 +1,23 @@
+C:\Users\aless>ncat 202.61.227.83 31338
+sha256(xxxx) == 5ddd42e1edcf1910547f3a2e0aef7e7aaea22fd517282ec0d68676fbed69478f
+Mine xxxx:
+A2YIQ
+A2YIQ
+sha256(xxxx) == 8a7056fc28f0b17f8d75c6b619d4232e1d7099b58c47962cf2c56cd26bfd832d
+Mine xxxx:
+C7e6c
+C7e6c
+sha256(xxxx) == 5b1515291c3d9193b6205d6a990ce259ae66abf5f5c9f5b39a5d974097860fc4
+Mine xxxx:
+OcYEZ
+OcYEZ
+sha256(xxxx) == d6cb8e1cfeddd949a371420f3b8efc6d12176da935399ce42d631cf777f69eca
+Mine xxxx:
+0LPf2
+0LPf2
+sha256(xxxx) == 3e8c739f5c08cf8d5d46bfab9be7318387db3c6a5f9c202323467a69bcff4806
+Mine xxxx:
+IGjJA
+IGjJA
+Congratulations miner! Here is your proof of solving the adult PoW task:
+itb{adult_pow_db40f1304a9213216b40379be86825f5}
